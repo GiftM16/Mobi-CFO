@@ -1,7 +1,0 @@
-    streamlit
-    pandas
-    pytesseract
-    pdfplumber
-    Pillow
-    opencv-python-headless
-    numpy
